@@ -53,10 +53,10 @@ Data
   
 Betterment Possibilities
 -------------------------------------------------
-  >> Removing any student
-  >> single function to change camera input value
-  >> backup checkpoints
-  >> deployment of DBMS to store data
+  1. Removing any student
+  2. single function to change camera input value
+  3. backup checkpoints
+  4. deployment of DBMS to store data
   >> You are free to modify and implement new concepts to the framework
   
 Author's Note:
